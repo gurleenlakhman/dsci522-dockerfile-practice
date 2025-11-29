@@ -19,3 +19,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---------------------------------------------
+
+Attribution Notice
+
+This project includes code adapted from the following source:
+
+Tiffany Timbers' dsci522-dockerfile-practice repository  
+https://github.com/ttimbers/dsci522-dockerfile-practice
+
+Specifically, the GitHub Actions workflow file
+`.github/workflows/docker-publish.yml` is derived from the corresponding file
+in that repository. It is included and adapted here under the terms of the
+license provided in the original source.
+
+All other content in this repository is original work by Gurleen Kaur.
